@@ -5,3 +5,7 @@ sobre
 serviços
 contato
 
+TASK-5
+
+adicionar uma pasta e comitar ao mesmo tempo
+git commit -a -m "commit"
